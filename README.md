@@ -34,7 +34,7 @@ run_test.bat
 
 The test performs definition and CRUD checks for the controller and the service.
 
-# API - NEST JS - SQLITE BANK
+# API - NEST JS - SQLITE DATA BASE
 
 It is a basic API made in NestJS for vehicle query.
 
